@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'THSarabunNewBold';
+    src: url('fonts/THSarabunNewBold.eot');
+    src: url('fonts/THSarabunNewBold.eot') format('embedded-opentype'),
+         url('fonts/THSarabunNewBold.woff2') format('woff2'),
+         url('fonts/THSarabunNewBold.woff') format('woff'),
+         url('fonts/THSarabunNewBold.ttf') format('truetype'),
+         url('fonts/THSarabunNewBold.svg#THSarabunNewBold') format('svg');
+}
